@@ -99,5 +99,22 @@ Quien incumpla el código de conducta en cualquier punto y en cualquier momento 
 Se considerará un fundador inactivo cuando no participe en las reuniones de los fundadores, no aporte en decisiones u opiniones, no patrocine aunque tenga recursos proyectos del club, no pertenezca a un equipo y adicionalmente tenga una inasistencia en las reuniones generales del 60%.
 Un fundador inactivo será removido del Club indicando que no por esto deja de ser fundador y el comité del Club siempre deberá reconocer su nombre a futuro.
 
+# 5. Aportaciones
+El club recibirá aportaciones opcionales de $4.00 USD semestrales para cumplir gastos importantes del club como por ejemplo licenciamiento de Zoom, pago para servicios en la nube, y otros gastos que deberán ser justificados en un documento formal creado por el o la tesorera del Club de Software EPN.
 
+Como acuerdo común se ha seleccionado a la senorita Loreley Pazmiño como tesorera del club durante el semestre 2021A. Sus responsabilidades son las siguientes:
+- Controlar, registrar y presentar los aportes individuales de cada miembro del club.
+- Manejar el dinero recolectado a través de una cuenta bancaria y con un registro público de ingresos y gastos.
+
+Las aportaciones tambien podran darse de otras actividades del Club
+- Inscripcion de torneos de programación
+- Cobro por capacitaciones
+- Cobro por servicios o productos de software
+## 5.1. Beneficios para los aportantes
+- Acceso a marketing(stickers, fondos de de pantalla) exclusivos
+- Soporte prioritario, por ejemplo si alguien necesita ayuda en algún proyecto o algo por el estilo.
+- Descuentos o prioridad de inscripción en cursos que ofrezca el club.
+- Uso de los productos, licencias y otros servicios. 
+
+Las aportaciones seran vigentes desde el 17 de julio del 2021.
 
