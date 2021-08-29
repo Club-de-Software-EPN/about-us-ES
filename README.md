@@ -49,17 +49,17 @@ El equipo buscará realizar conferencias importantes sobre temas de cibersegurid
 
 **Representante del equipo:** Alejandro Llanganate
 
-## 2.3 Equipo de Inteligencia Artificial
+### 2.3 Equipo de Inteligencia Artificial
 El equipo buscará compartir proyectos creados por los miembros del club hacia la comunidad.
 
 **Representante del equipo:** Anderson Cárdenas
 
-## 2.4 Equipo de Torneos
+### 2.4 Equipo de Torneos
 El equipo buscará prepararse para la participación en concursos de programación y otras áreas. Así como realizar torneos de programación internos en la FIS y en la Escuela Politécnica Nacional.
 
 **Representante del equipo:** Anderson Cárdenas
 
-### 2.5 Equipo de Marketing
+### 2.5 Equipo de Conferencias
 
 El equipo buscará generar contenido a través de proyectos previamente realizados por los miembros del club o a su vez con contenido interactivo sobre las temáticas de la Ingeniería de Software. Así también buscará promover conferencias, charlas, entre otras actividades que genere el club con el público en general.
 
