@@ -34,6 +34,8 @@ El Club de Software nace como una propuesta de estudiantes de la carrera de Inge
 ### 1.4 Organización
 El Club de Software está encabezado por tres organizadores y fundadores: Alejandro Llanganate, Juan José Jaramillo y Loreley Pazmiño, estudiantes de la carrera de Ingeniería de Software. Así también cuenta con 11 fundadores incluyendo a los organizadores, 10 nuevos miembros activos, y dos docentes FIS: Ph.D. Pamela Flores y MSc. Roberto Andrade, que dan soporte al club con sugerencias, recomendaciones y correcciones en la organización y desenvolvimiento del mismo.
 
+Para consagrarse como presidente del Club o ser líder de cualquier equipo es requerido ser o haber sido estudiante de la Facultad de Ingeniería de Sistemas. 
+
 # 2. Equipos del Club
 Para la creación del Club se han abierto los siguientes equipos pilotos pertenecientes al club para promover contenido y crear actividades.
 
@@ -47,25 +49,13 @@ El equipo buscará realizar conferencias importantes sobre temas de cibersegurid
 
 **Representante del equipo:** Alejandro Llanganate
 
-### 2.3 Equipo de Capacitación
-El equipo buscará realizar cursos cortos introductorios a lenguajes de programación y que sean complementarios a los cursos de carrera.
-
-**Representante del equipo:** Edison Quimbiamba
-
-| Coordinador | Tema | Equipo de Soporte |
-| :---: | :---: | :---: |
-| Edison Quimbiamba | Introducción a base de datos con SQL, Patrones de diseño con Java | N/A |
-| Juan Jaramillo | Introducción al desarrollo web (HTML, CSS & JavaScript) | N/A |
-| Anderson Cárdenas | Curso de Python | Javier Erazo, Juan Pablo Tovar |
-| Juan Jaramillo | Introducción al desarrollo web (HTML, CSS & JavaScript) | N/A |
-| Lesly Tipanluiza | Programación Orientada a Objetos | Andrea Cachipuendo |
-Diego Márquez | Introducción a git y github | Jose Muñoz
-Cesar Santacruz | Introducción a Microsoft Azure Web Services, Introducción a la creación de bots con Azure y Microsoft Teams | N/A
-Luis Almeida | Introducción al diseño con Figma | N/A
-Alejandro Llanganate | Introducción a línea de comandos en Linux | N/A
-
-## 2.4 Equipo de Inteligencia Artificial
+## 2.3 Equipo de Inteligencia Artificial
 El equipo buscará compartir proyectos creados por los miembros del club hacia la comunidad.
+
+**Representante del equipo:** Anderson Cárdenas
+
+## 2.4 Equipo de Torneos
+El equipo buscará prepararse para la participación en concursos de programación y otras áreas. Así como realizar torneos de programación internos en la FIS y en la Escuela Politécnica Nacional.
 
 **Representante del equipo:** Anderson Cárdenas
 
@@ -89,9 +79,12 @@ En caso de no existir ningún inconveniente, se deberá aceptar el código de co
 Estos puntos entrarán en vigencia el 14 de junio del 2021.
 ### 4.1 Miembros de la comunidad en general
 Se revocará la participación de una persona que no tenga definido un equipo hasta la segunda semana de su inscripción y aceptación al Club. En caso de no presentar una justificación sustentable se le notificará por correo electrónico y número celular la decisión del comité del Club de Software.
-En cada semana de inasistencia de un miembro a las reuniones generales se notificará este evento a su correo electrónico indicando que tiene una falta no justificada. Cuando se tenga un número mayor a tres faltas a las reuniones generales se considerará como inactivo a la persona si adicionalmente tiene una falta mayor al 50% de asistencia de las reuniones de equipo.
+En cada semana de inasistencia de un miembro a las reuniones generales se notificará este evento a su correo electrónico indicando que tiene una falta no justificada. Cuando se tenga un número mayor a tres faltas a las reuniones generales se considerará como inactivo a la persona o si tiene una falta mayor o igual a cuatro inasistencias no justificadas a las reuniones de equipo.
+
 Un miembro inactivo deberá ser revocado del Club notificándose al correo electrónico del mismo la situación de inasistencia que le antecede.
+
 Cuando un miembro inactivo es revocado deberá esperar el periodo de un semestre académico según las fechas de la Escuela Politécnica Nacional para volver a solicitar el ingreso al Club. Cabe recalcar que el comité del Club analizará su admisión en base a su historial de inasistencia con la cual salió.
+
 Quien incumpla el código de conducta en cualquier punto y en cualquier momento será sancionado con la revocación de participación del Club permanente.
 
 ### 4.2 Miembros fundadores
@@ -100,16 +93,17 @@ Se considerará un fundador inactivo cuando no participe en las reuniones de los
 Un fundador inactivo será removido del Club indicando que no por esto deja de ser fundador y el comité del Club siempre deberá reconocer su nombre a futuro.
 
 # 5. Aportaciones
-El club recibirá aportaciones opcionales de $4.00 USD semestrales para cumplir gastos importantes del club como por ejemplo licenciamiento de Zoom, pago para servicios en la nube, y otros gastos que deberán ser justificados en un documento formal creado por el o la tesorera del Club de Software EPN.
+El club recibirá aportaciones opcionales de $5.00 USD semestrales para cumplir gastos importantes del club como por ejemplo licenciamiento de Zoom, pago para servicios en la nube, y otros gastos que deberán ser justificados en un documento formal creado por el o la tesorera del Club de Software EPN.
 
-Como acuerdo común se ha seleccionado a la senorita Loreley Pazmiño como tesorera del club durante el semestre 2021A. Sus responsabilidades son las siguientes:
+Como acuerdo común se ha seleccionado a la señorita Loreley Pazmiño como tesorera del club durante el semestre 2021A-2021B. Sus responsabilidades son las siguientes:
 - Controlar, registrar y presentar los aportes individuales de cada miembro del club.
 - Manejar el dinero recolectado a través de una cuenta bancaria y con un registro público de ingresos y gastos.
 
-Las aportaciones tambien podran darse de otras actividades del Club
+Los ingresos del Club tambien podrán darse de otras actividades del Club:
 - Inscripcion de torneos de programación
 - Cobro por capacitaciones
 - Cobro por servicios o productos de software
+
 ## 5.1. Beneficios para los aportantes
 - Acceso a marketing(stickers, fondos de de pantalla) exclusivos
 - Soporte prioritario, por ejemplo si alguien necesita ayuda en algún proyecto o algo por el estilo.
