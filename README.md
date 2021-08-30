@@ -57,7 +57,7 @@ El equipo buscará compartir proyectos creados por los miembros del club hacia l
 ### 2.4 Equipo de Torneos
 El equipo buscará prepararse para la participación en concursos de programación y otras áreas. Así como realizar torneos de programación internos en la FIS y en la Escuela Politécnica Nacional.
 
-**Representante del equipo:** Anderson Cárdenas
+**Representante del equipo:** Danny Díaz
 
 ### 2.5 Equipo de Conferencias
 
