@@ -16,7 +16,7 @@ A continuación se detalla el cronograma de actividades que se llevarán a cabo 
 | --- | --- | --- | --- | --- |
 | A21CSB | Evento de bienvenida (talleres y charlas)  al nuevo semestre 2021B para estudiantes que obtuvieron un cupo en la EPN y estudiantes que cursarán primer semestre. | 01/11/2021 | 02/11/2021 | Directiva |
 | A22CSB | Live en Facebook sobre una temática de desarrollo web. | 01/11/2021 | 02/11/2021 | Equipo de Desarrollo Web |
-| A23CSB | Cumbre Nacional de Ciberseguridad y Privacidad. | 30/11/2021 | 02/11/2021 | Equipo de Ciberseguridad|
+| A23CSB | Cumbre Nacional de Ciberseguridad y Privacidad. | 30/11/2021 | 02/12/2021 | Equipo de Ciberseguridad|
 | A24CSB | Inicio del Torneo AdventOfCode con seguimiento del Club de Software EPN. | 01/12/2021 | 01/12/2021 | Equipo de Torneos |
 | A25CSB | Presentación de proyectos 2021A del Equipo de Desarrollo Web en redes sociales. | 07/12/2021 | 07/12/2021 | Equipo de Desarrollo Web |
 | A26CSB | Presentación de proyectos 2021A del Equipo de Inteligencia Artificial en redes sociales. | 08/12/2021 | 08/12/2021 | Equipo de Inteligencia Artificial |
