@@ -8,7 +8,7 @@
 **Fecha última modificación:** 15 de octubre del 2021. 
 
 
-> Propuesto por [Alejandro Llanganate](https://www.epn.edu.ec), Presidente del Club de Software de la Escuela Politécnica Nacional.
+> Propuesto por [Alejandro Llanganate](https://www.github.com/alejandrollanganate), Presidente del Club de Software de la Escuela Politécnica Nacional.
 
 A continuación se detalla el cronograma de actividades que se llevarán a cabo durante el semestre correspondiente al periodo 2021B.
 
