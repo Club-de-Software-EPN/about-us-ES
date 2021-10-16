@@ -30,5 +30,6 @@ A continuación se detalla el cronograma de actividades que se llevarán a cabo 
 | A34CSB | Publicación de oferta de cursos vacacionales dictados por el Club de Software. | 21/02/2022 | 12/03/2022 | Directiva |
 | A35CSB | Vísita presencial a una empresa de Desarrollo de Software importante en el país. | 11/03/2022 | 11/03/2022 | Directiva |
 | A36CSB | Inicio de cursos vacacionales del Club de Software. | 14/03/2022 | 14/03/2022 | Directiva |
+| A37CSB | Webinar "¿Qué carrera seguir?" desde el punto de vista de las empresas de software. | 21/03/2022 | 21/03/2022 | Directiva |
 | A38CSB | SoftFest 2022, Quito Ecuador - Evento presencial | 08/04/2022 | 09/04/2022 | Directiva |
 
