@@ -25,7 +25,7 @@ A continuación se detalla el cronograma de actividades que se llevarán a cabo 
 | A29CSB | Presentación de proyectos 2021A del Equipo de Torneos. | 10/12/2021 | 10/12/2021 | Equipo de Torneos |
 | A30CSB | Premiación a estudiantes que acumularon más puntos en el Torneo AdventOfCode. | 23/12/2021 | 23/12/2021 | Directiva |
 | A31CSB | Live en Facebook con una temática relacionada al Desarrollo de Videojuegos. | 06/01/2022 | 06/01/2022 | Equipo de Desarrollo de Videojuegos |
-| A32CSB | Live en Facebook con una temática relacionada a la Inteligencia Artificial. | 20/01/2022 | 20/12/2022 | Equipo de Inteligencia Artificial |
+| A32CSB | Live en Facebook con una temática relacionada a la Inteligencia Artificial. | 20/01/2022 | 20/01/2022 | Equipo de Inteligencia Artificial |
 | A33CSB | Taller de habilidades blandas para ingenieros. | 10/02/2022 | 10/02/2022 | Directiva |
 | A34CSB | Publicación de oferta de cursos vacacionales dictados por el Club de Software. | 21/02/2022 | 12/03/2022 | Directiva |
 | A35CSB | Vísita presencial a una empresa de Desarrollo de Software importante en el país. | 11/03/2022 | 11/03/2022 | Directiva |
