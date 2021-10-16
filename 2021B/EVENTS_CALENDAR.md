@@ -5,7 +5,7 @@
 
 **Fecha de creación:** 15 de octubre del 2021.
 
-**Fecha última modificación:** 15 de octubre del 2021. 
+**Fecha última modificación:** 16 de octubre del 2021. 
 
 
 > Propuesto por [Alejandro Llanganate](https://www.github.com/alejandrollanganate), Presidente del Club de Software de la Escuela Politécnica Nacional.
